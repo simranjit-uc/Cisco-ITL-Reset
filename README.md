@@ -6,7 +6,7 @@ Reset ITL Security files on Cisco IP Phones. This Python program interacts with 
 - Cisco IP Phone 7841 model
 - A user profile in CUCM that can control the phone. In other words, the phone should be added to the user's controlled devices list.
 - Libraries like Requests
-- 
+
 ## Cloning the App
 You can simply issue the following command from the command prompt on your computer to clone this app to your local directory
 ```
