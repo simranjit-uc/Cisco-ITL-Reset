@@ -3,8 +3,8 @@ from requests.auth import HTTPBasicAuth
 from urllib3 import disable_warnings
 from urllib3.exceptions import InsecureRequestWarning
 
-cti_User = 'ctiid'
-cti_Pass = 'ctipassword'
+cti_User = '< User ID '
+cti_Pass = '< User password >'
 
 def Keypad(num):
     return "XML=%3CCiscoIPPhoneExecute%3E%3CExecuteItem%20URL%3D%22Key%3AKeyPad" + num + "%22%2F%3E%3C%2FCiscoIPPhoneExecute%3E"
