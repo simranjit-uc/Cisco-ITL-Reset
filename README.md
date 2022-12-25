@@ -19,6 +19,7 @@ git clone https://github.com/simranjit-uc/Cisco-ITL-Reset
 
 ## More details
 For more details on what this code means, you can check out the following link
+- http://learnuccollab.com/2022/12/25/building-cisco-ip-phone-services-part-3-the-code/
 
 To gain more behind the scene understanding of IP Phone services and how it works the phone's firmware, you can check out the following links
 
